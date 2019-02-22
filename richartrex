@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<title>FindThePrecious.com</title>
-		<meta charset="utf-8">.
-		<link rel="steelshett" href="styles.css"
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="styles.css">
 	</head>
 	
 	<body>
@@ -12,17 +12,17 @@
 			<nav>			
 				<!-- Les diffÃ©rents titres du site -->
 				<ul>
-					<li><a ref="fellows">Fellows</a></li>
-					<li><a ref="thering">The Ring</a></li>
-					<li><a ref="get">Get my reward</a></li>
-					<li><a ref="best">Best hunters</a></li>
-					<li><a ref="join">Join the army</a></li>
-					<li><a ref="contact">Contact us</a></li>
+					<li><a href="fellows">Fellows</a></li>
+					<li><a href="thering">The Ring</a></li>
+					<li><a href="get">Get my reward</a></li>
+					<li><a href="best">Best hunters</a></li>
+					<li><a href="join">Join the army</a></li>
+					<li><a href="contact">Contact us</a></li>
 				</ul>
 			</nav>
 			<p>Dangerous  fellowship try to destroy the ring</p>
 			<p>Orcs, Goblins, Balrogs, protect your master Sauron !</p>
-			<a href="https://placeholder.com"><img src="https://via.placeholder.com/140"></a>
+			<a href="https://placeholder.com"><img src="https://via.placeholder.com/140" alt="image 140 x 140"></a>
 		</header>
 		
 		<section>
@@ -75,39 +75,39 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Numc maximus, nulla ut<br>
 				commodo sagittis, sapien dui matthis dui, non pulvinar lorem felis nec erat. Adiquam<br>
 				egestas, velit at condimentum placerat, sem sapien laorest mauriis, dictum portitor</p>
-				<a href="https://placeholder.com"><img src="https://via.placeholder.com/140"></a>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/140" alt="image 140 x 140"></a>
 			
 			<h2 id="best">Best hunters</h2>
 				<p>Elveskiller22</p>
 				<p>2 captures - Profile</p>
-				<a href="https://placeholder.com"><img src="https://via.placeholder.com/70"></a>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/70" alt="image 70 x 70"></a>
 				<p>Goblin45</p>
 				<p>1 captures - Profile</p>
-				<a href="https://placeholder.com"><img src="https://via.placeholder.com/70"></a>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/70" alt="image 70 x 70"></a>
 				
 			<h2 id="join">Join the army</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Numc maximus, nulla ut<br>
 				commodo sagittis, sapien dui matthis dui, non pulvinar lorem felis nec erat. Adiquam<br>
 				egestas, velit at condimentum placerat, sem sapien laorest mauriis, dictum portitor</p>
-				<a href="https://placeholder.com"><img src="https://via.placeholder.com/140"></a>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/140" alt="image 140 x 140"></a>
 				<p>More info on SauronRulesThemAll.com</p>
 			
 			<h2 id="contact">Contact us</h2>			      
 				<input type="email" id="email" placeholder="@">
 				<br>
-				<textarea name="text" id="message" placeholder="Home" rows="3" cols="25"></textarea>
+				<textarea name="text" id="message1" placeholder="Home" rows="3" cols="25"></textarea>
 				<br>					 
-				<textarea name="text" id="message" placeholder="I have seen one of them" rows="3" cols="25"></textarea>
+				<textarea name="text" id="message2" placeholder="I have seen one of them" rows="3" cols="25"></textarea>
 				<br>
-				<textarea name="text" id="message" placeholder="your message :" rows="3" cols="25"></textarea>
+				<textarea name="text" id="message3" placeholder="your message :" rows="3" cols="25"></textarea>
 				<br>        
 				<input type="submit" value="send">          
 		</section>
 		
 		<footer>
 			<p>About us - FAQ - <a href="http://www.Sauron4Ever.com" target="_blank">Sauron4Ever.com</a></p>
-			<p><a ref="fellows">Fellows</a> - Reward conditions</p>		
-			<p><a ref="join">Join the army</a> - Legal mentions - Follow himcalsocon twitter</p>
+			<p><a href="fellows">Fellows</a> - Reward conditions</p>		
+			<p><a href="join">Join the army</a> - Legal mentions - Follow himcalsocon twitter</p>
 		</footer>	
 	</body>
 </html>
