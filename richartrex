@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -31,10 +32,13 @@
 				<ul>
 					<li>
 						<h3>Most wanted</h3>
+							<a href="https://placeholder.com"><img src="https://via.placeholder.com/70" alt="image 70 x 70"></a>
 							<p>The wizard</p>
 							<p>Small description</p>
+							<a href="https://placeholder.com"><img src="https://via.placeholder.com/70" alt="image 70 x 70"></a>
 							<p>Hobbit #3</p>
 							<p>Small description</p>
+							<a href="https://placeholder.com"><img src="https://via.placeholder.com/70" alt="image 70 x 70"></a>
 							<p>Yummy Dwarf</p>
 							<p>Small description</p>
 					</li>
@@ -92,16 +96,26 @@
 				<a href="https://placeholder.com"><img src="https://via.placeholder.com/140" alt="image 140 x 140"></a>
 				<p>More info on SauronRulesThemAll.com</p>
 			
-			<h2 id="contact">Contact us</h2>			      
-				<input type="email" id="email" placeholder="@">
-				<br>
-				<textarea name="text" id="message1" placeholder="Home" rows="3" cols="25"></textarea>
-				<br>					 
-				<textarea name="text" id="message2" placeholder="I have seen one of them" rows="3" cols="25"></textarea>
-				<br>
-				<textarea name="text" id="message3" placeholder="your message :" rows="3" cols="25"></textarea>
-				<br>        
-				<input type="submit" value="send">          
+			<h2 id="contact">Contact us</h2>
+				<div>
+					<input type="email" id="email" placeholder="@">	
+				</div>
+				
+				<div>
+					<textarea name="text" id="message1" placeholder="Home" rows="3" cols="25"></textarea>
+				</div>
+				
+				<div>
+					<textarea name="text" id="message2" placeholder="I have seen one of them" rows="3" cols="25"></textarea>
+				</div>
+				
+				<div>
+					<textarea name="text" id="message3" placeholder="your message :" rows="3" cols="25"></textarea>
+				</div>
+				
+				<div>
+				<input type="submit" value="send">  
+				</div>
 		</section>
 		
 		<footer>
